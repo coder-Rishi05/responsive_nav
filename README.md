@@ -8,7 +8,6 @@ Key Features  <br> <br>
 - Overview  <br>
 - This project is a part of my learning journey in web development, where I focus on crafting user-friendly interfaces and writing clean, maintainable code. It serves as a practical example of how powerful CSS can - be in creating dynamic, interactive designs without relying on additional scripting.  <br>
  <br>
- **
+ 
  Live Demo <br> <br>
 🔗 [View Live Demo](https://responsive-nav3.netlify.app/) <br>
-****
